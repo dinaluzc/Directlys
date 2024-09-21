@@ -1,0 +1,7 @@
+NSCameraUsageDescription = "tomar captura";
+NSPhotoLibraryUsageDescription = "agregar foto";
+NSLocationWhenInUseUsageDescription = "ubicacion";
+NSContactsUsageDescription = "agregar contactos";
+PermissionGroupNotification = "notificaciones";
+NSCalendarsUsageDescription = "crear cita o solicitud";
+NSMicrophoneUsageDescription = "grabar";

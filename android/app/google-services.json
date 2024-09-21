@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "1042484502332",
+    "firebase_url": "https://pich-directly-acrzxi-default-rtdb.firebaseio.com",
+    "project_id": "pich-directly-acrzxi",
+    "storage_bucket": "pich-directly-acrzxi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042484502332:android:fab76c3cd6d80cfcdfc839",
+        "android_client_info": {
+          "package_name": "basededatos.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042484502332-bounrtjrnn5f5fdg5kl9deofunlevo0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "basededatos.android",
+            "certificate_hash": "0200000000000000000000000000000000000000"
+          }
+        },
+        {
+          "client_id": "1042484502332-ekqbu49uo0muik7a1aucgljmoraclu0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "basededatos.android",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1042484502332-qbp5ftgnp72tmpk299les56o6ssrvkkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC4q154K2BeCCo1KJbheywlUHwQdLMoZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042484502332-qbp5ftgnp72tmpk299les56o6ssrvkkp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1042484502332-92uddjvdodovaf9qlt449th6s36ep363.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.directlys"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042484502332:android:588351cf1041e4f9dfc839",
+        "android_client_info": {
+          "package_name": "com.mycompany.directlys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042484502332-6um1ot78kaldo6k3uosdc9n7sua9gmfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.directlys",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1042484502332-qbp5ftgnp72tmpk299les56o6ssrvkkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC4q154K2BeCCo1KJbheywlUHwQdLMoZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042484502332-qbp5ftgnp72tmpk299les56o6ssrvkkp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1042484502332-92uddjvdodovaf9qlt449th6s36ep363.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.directlys"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
